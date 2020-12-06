@@ -1,7 +1,7 @@
 # Leninism Dataset
 
 ## Objective: 
-to create the most possibly complete collection of V.I.Lenin statements in English. 
+To create the most possibly complete collection of V.I.Lenin statements in English. 
 
 ## Definitions
 * For the purposes of this dataset **a statement** will defined as a phrase written by Lenin and translated into english in order to be published under the name V.I.Lenin.
