@@ -14,6 +14,9 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 	"is_lenin": 1
 }]
 ```
+## Direct Downloads
+* http://leninism.masaccio.io/leninism_1.json
+* http://leninism.masaccio.io/lenin_smith.json
 
 ## Sources
 * M. (n.d.). V.I. Lenin Library Works Index. Retrieved December 06, 2020, from https://www.marxists.org/archive/lenin/works/index.htm
