@@ -17,3 +17,10 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 
 ## Sources
 * M. (n.d.). V.I. Lenin Library Works Index. Retrieved December 06, 2020, from https://www.marxists.org/archive/lenin/works/index.htm
+### File leninism_1.json includes the following works
+Written: February-May 1914
+Published: April-June 1914 in the journal Prosveshcheniye Nos. 4, 5 and 6. Signed: V. Ilyin. Published according to the text in the journal.
+Source: Lenin’s Collected Works, Progress Publishers, 1972, Moscow, Volume 20, pp. 393-454.
+Translated: Bernard Isaacs and The Late Joe Fineberg
+Transcription\Markup: B. Baggins, D. Walters, & K. Goins (2008)
+Public Domain: Lenin Internet Archive (2000). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works. Please credit “Marxists Internet Archive” as your source.
