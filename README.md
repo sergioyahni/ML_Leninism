@@ -22,3 +22,9 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 * *The Right of Nations to Self-Determination* (February-May 1914), “Marxists Internet Archive”
 * *Imperialism, the Highest Stage of Capitalism* (January-June, 1916) “Marxists Internet Archive”
 * *The State and Revolution* (August - September, 1917) “Marxists Internet Archive”
+
+### lenin_smith.json
+* *The Right of Nations to Self-Determination* (February-May 1914), “Marxists Internet Archive”
+* *Imperialism, the Highest Stage of Capitalism* (January-June, 1916) “Marxists Internet Archive”
+* *The State and Revolution* (August - September, 1917) “Marxists Internet Archive”
+* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (March 9, 1776), Project Gutenberg, https://www.gutenberg.org/files/3300/3300-h/3300-h.htm#chap14
