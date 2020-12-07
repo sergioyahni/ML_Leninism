@@ -18,9 +18,29 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 ## Sources
 * M. (n.d.). V.I. Lenin Library Works Index. Retrieved December 06, 2020, from https://www.marxists.org/archive/lenin/works/index.htm
 ### File leninism_1.json includes the following works
-Written: February-May 1914
-Published: April-June 1914 in the journal Prosveshcheniye Nos. 4, 5 and 6. Signed: V. Ilyin. Published according to the text in the journal.
-Source: Lenin’s Collected Works, Progress Publishers, 1972, Moscow, Volume 20, pp. 393-454.
-Translated: Bernard Isaacs and The Late Joe Fineberg
-Transcription\Markup: B. Baggins, D. Walters, & K. Goins (2008)
-Public Domain: Lenin Internet Archive (2000). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works. Please credit “Marxists Internet Archive” as your source.
+
+* *The Right of Nations to Self-Determination*
+* Written: February-May 1914
+* Published: April-June 1914 in the journal Prosveshcheniye Nos. 4, 5 and 6. Signed: V. Ilyin. Published according to the text in the journal.
+* Source: Lenin’s Collected Works, Progress Publishers, 1972, Moscow, Volume 20, pp. 393-454.
+* Translated: Bernard Isaacs and The Late Joe Fineberg
+* Transcription\Markup: B. Baggins, D. Walters, & K. Goins (2008)
+* Public Domain: Lenin Internet Archive (2000). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works.
+* **Credit:** “Marxists Internet Archive” as your source.
+
+* *Imperialism, the Highest Stage of Capitalism*
+* Written: January-June, 1916
+* Published: First published in mid-1917 in pamphlet form, Petrograd. Published according to the manuscript and verified with the text of the pamphlet.
+* Source: Lenin’s Selected Works, Progress Publishers, 1963, Moscow, Volume 1, pp. 667766.
+* Transcription\Markup: Tim Delaney & Kevin Goins (2008)
+* Public Domain: Lenin Internet Archive 2005. 
+* You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works. 
+* **Credit:** “Marxists Internet Archive” as your source.
+
+* *The State and Revolution*
+* Written: August - September, 1917
+* Source: Collected Works, Volume 25, p. 381-492
+* First Published: 1918
+* Transcription\Markup: Zodiac and Brian Baggins
+* Online Version: Lenin Internet Archive (marxists.org) 1993, 1999
+* **Credit:** “Marxists Internet Archive” as your source.
