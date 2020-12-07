@@ -19,17 +19,6 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 * M. (n.d.). V.I. Lenin Library Works Index. Retrieved December 06, 2020, from https://www.marxists.org/archive/lenin/works/index.htm
 ### File leninism_1.json includes the following works
 
-
-* *The Right of Nations to Self-Determination*
-* Written: February-May 1914
-* **Credit:** “Marxists Internet Archive” as your source.
-
-
-* *Imperialism, the Highest Stage of Capitalism*
-* Written: January-June, 1916
-* **Credit:** “Marxists Internet Archive” as your source.
-
-
-* *The State and Revolution*
-* Written: August - September, 1917
-* **Credit:** “Marxists Internet Archive” as your source.
+* *The Right of Nations to Self-Determination* (February-May 1914), “Marxists Internet Archive”
+* *Imperialism, the Highest Stage of Capitalism* (January-June, 1916) “Marxists Internet Archive”
+* *The State and Revolution* (August - September, 1917) “Marxists Internet Archive”
