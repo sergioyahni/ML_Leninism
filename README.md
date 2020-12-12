@@ -17,8 +17,3 @@ To create the most possibly complete collection of V.I.Lenin statements in Engli
 
 ## Sources
 The dataset is composed by works of V.I. Lenin retrived from the "Marxists Internet Archives". Those statements will be labeled "is_lenin:1: in the JSON file. Statements lables "is_lenin:0: were collected from the internet including "Marxists Internet Archives", for other marxists authors, the Gutenberg Project, Wikipedia, news resources, erotic websites etc. 
-
-## Direct Downloads
-* http://leninism.masaccio.io/leninism_1.json
-* http://leninism.masaccio.io/lenin_smith.json
-* http://leninism.masaccio.io/lenin_dataset.json
