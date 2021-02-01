@@ -1,4 +1,4 @@
-# Leninism Dataset
+# The Language of Lenin
 
 ## Objective: 
 Create a collection of V.I.Lenin statements in English for ML. 
