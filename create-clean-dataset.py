@@ -85,7 +85,6 @@ create_dts('is_lenin', 1)
 create_dts('not_lenin', 0)
 
 # Call tar function
-# Optional
-# tardir()
+tardir()
 
 
